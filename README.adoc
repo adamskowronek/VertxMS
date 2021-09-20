@@ -1,4 +1,4 @@
-= Vertxms
+= Microservice as part of a social platform, using Vertx.
 
 image:https://img.shields.io/badge/vert.x-3.8.4-purple.svg[link="https://vertx.io"]
 
